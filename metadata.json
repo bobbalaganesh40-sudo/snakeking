@@ -1,0 +1,6 @@
+{
+  "name": "Neon Serpent WebAmp",
+  "description": "A dark neon aesthetic app combining a Snake game and an AI-generated music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
